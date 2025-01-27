@@ -7,4 +7,4 @@ create table users(
 
 -- describe table_name;
 
--- drop table table_name;
+-- drop table if exists table_name;
