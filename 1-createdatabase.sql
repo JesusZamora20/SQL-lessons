@@ -1,5 +1,5 @@
 show databases;
 
-create database admin;
+create database students;
 
 -- drop database name_database
